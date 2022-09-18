@@ -82,3 +82,7 @@ button:hover {
   opacity: 0;
   pointer-events: none; /*Here, events will not work when opacity = 0 */
 }
+
+#modal.hide {
+  top: 0;
+}
